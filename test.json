@@ -47,9 +47,9 @@
     "AUDIO": [
         {"Portuguese":"ÁUDIO"}, 
         {"Spanish":"AUDIO"}],
-    "APPLY": [
-        {"Portuguese":"ÁUDIO"}, 
-        {"Spanish":"AUDIO"}],
+    "SAVE": [
+        {"Portuguese":"SALVAR"}, 
+        {"Spanish":"GUARDAR"}],
     "CANCEL": [
         {"Portuguese":"ÁUDIO"}, 
         {"Spanish":"AUDIO"}],
@@ -76,5 +76,11 @@
         {"Spanish":"CONTRASEÑA"}],
     "CONFIRM PASSWORD": [
         {"Portuguese":"CONFIRMAR SENHA"}, 
-        {"Spanish":"CONFIRMAR CONTRASEÑA"}]
+        {"Spanish":"CONFIRMAR CONTRASEÑA"}],
+    "QUIT GAME": [
+        {"Portuguese": "SAIR DO JOGO"},
+        {"Spanish": "ABANDONAR PARTIDA"}],
+    "any unsaved settings will be lost": [
+        {"Portuguese": "quaisquer configurações não salvas serão perdidas"},
+        {"Spanish": "cualquier configuración no guardada se perderá"}]
 }
