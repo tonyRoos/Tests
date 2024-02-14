@@ -82,5 +82,8 @@
         {"Spanish": "ABANDONAR PARTIDA"}],
     "any unsaved settings will be lost": [
         {"Portuguese": "quaisquer configurações não salvas serão perdidas"},
-        {"Spanish": "cualquier configuración no guardada se perderá"}]
+        {"Spanish": "cualquier configuración no guardada se perderá"}],
+    "LANGUAGE": [
+        {"Portuguese":"IDIOMA"}, 
+        {"Spanish":"IDIOMA"}]
 }
