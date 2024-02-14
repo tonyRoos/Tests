@@ -51,8 +51,8 @@
         {"Portuguese":"SALVAR"}, 
         {"Spanish":"GUARDAR"}],
     "CANCEL": [
-        {"Portuguese":"ÁUDIO"}, 
-        {"Spanish":"AUDIO"}],
+        {"Portuguese":"CANCELAR"}, 
+        {"Spanish":"CANCELAR"}],
     "BACK": [
         {"Portuguese":"VOLTAR"}, 
         {"Spanish":"VOLVER"}],
