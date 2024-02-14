@@ -53,6 +53,9 @@
     "CANCEL": [
         {"Portuguese":"ÁUDIO"}, 
         {"Spanish":"AUDIO"}],
+    "BACK": [
+        {"Portuguese":"VOLTAR"}, 
+        {"Spanish":"VOLVER"}],
     "CONFIRM": [
         {"Portuguese":"CONFIRMAR"}, 
         {"Spanish":"CONFIRMAR"}],
