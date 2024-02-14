@@ -1,17 +1,77 @@
 {
+    "VERSION": [
+        {"Portuguese":"VERSÃO"}, 
+        {"Spanish":"VERSIÓN"}],
     "SINGLE PLAYER": [
-        {"PT-BR":"JOGAR OFFLINE"}, 
-        {"ES":"JUGADOR ÚNICO"}],
+        {"Portuguese":"JOGAR OFFLINE"}, 
+        {"Spanish":"JUGADOR ÚNICO"}],
     "MULTI PLAYER": [
-        {"PT-BR":"JOGAR ONLINE"}, 
-        {"ES":"MULTI JUGADOR"}],
+        {"Portuguese":"JOGAR ONLINE"}, 
+        {"Spanish":"MULTI JUGADOR"}],
     "EXTRAS": [
-        {"PT-BR":"EXTRAS"}, 
-        {"ES":"EXTRAS"}],
+        {"Portuguese":"EXTRAS"}, 
+        {"Spanish":"EXTRAS"}],
     "OPTIONS": [
-        {"PT-BR":"OPÇÕES"}, 
-        {"ES":"OPCIONES"}],
+        {"Portuguese":"OPÇÕES"}, 
+        {"Spanish":"OPCIONES"}],
     "QUIT": [
-        {"PT-BR":"SAIR"}, 
-        {"ES":"SALIR"}]
+        {"Portuguese":"SAIR"}, 
+        {"Spanish":"SALIR"}],
+    "DIFFICULTY": [
+        {"Portuguese":"DIFICULDADE"}, 
+        {"Spanish":"DIFICULTAD"}],
+    "Very Easy": [
+        {"Portuguese":"Muito Fácil"}, 
+        {"Spanish":"Muy Fácil"}],
+    "Easy": [
+        {"Portuguese":"Fácil"}, 
+        {"Spanish":"Fácil"}],
+    "Normal": [
+        {"Portuguese":"Normal"}, 
+        {"Spanish":"Normal"}],
+    "Hard": [
+        {"Portuguese":"Difícil"}, 
+        {"Spanish":"Difícil"}],
+    "Very Hard": [
+        {"Portuguese":"Muito Difícil"}, 
+        {"Spanish":"Muy Difícil"}],
+    "GAMEPLAY": [
+        {"Portuguese":"GAMEPLAY"}, 
+        {"Spanish":"GAMEPLAY"}],
+    "CONTROLS": [
+        {"Portuguese":"CONTROLES"}, 
+        {"Spanish":"CONTROLS"}],
+    "GRAPHICS": [
+        {"Portuguese":"GRÁFICOS"}, 
+        {"Spanish":"CONTROLS"}],
+    "AUDIO": [
+        {"Portuguese":"ÁUDIO"}, 
+        {"Spanish":"AUDIO"}],
+    "APPLY": [
+        {"Portuguese":"ÁUDIO"}, 
+        {"Spanish":"AUDIO"}],
+    "CANCEL": [
+        {"Portuguese":"ÁUDIO"}, 
+        {"Spanish":"AUDIO"}],
+    "CONFIRM": [
+        {"Portuguese":"CONFIRMAR"}, 
+        {"Spanish":"CONFIRMAR"}],
+    "LOGIN": [
+        {"Portuguese":"CONECTAR"}, 
+        {"Spanish":"ACCESO"}],
+    "SIGNUP": [
+        {"Portuguese":"CADASTRAR"}, 
+        {"Spanish":"REGISTRAR"}],
+    "EMAIL": [
+        {"Portuguese":"EMAIL"}, 
+        {"Spanish":"EMAIL"}],
+    "NICK NAME": [
+        {"Portuguese":"APELIDO"}, 
+        {"Spanish":"APODO"}],
+    "PASSWORD": [
+        {"Portuguese":"SENHA"}, 
+        {"Spanish":"CONTRASEÑA"}],
+    "CONFIRM PASSWORD": [
+        {"Portuguese":"CONFIRMAR SENHA"}, 
+        {"Spanish":"CONFIRMAR CONTRASEÑA"}]
 }
