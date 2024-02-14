@@ -1,8 +1,17 @@
 {
-    "LANGUAGES": ["pt-br"],
-    "SINGLE PLAYER": ["JOGAR OFFLINE"],
-    "MULTI PLAYER": ["JOGAR ONLINE"],
-    "EXTRAS": ["EXTRAS"],
-    "OPTIONS": ["OPÇÕES"],
-    "QUIT": ["SAIR"]
+    "SINGLE PLAYER": [
+        {"PT-BR":"JOGAR OFFLINE"}, 
+        {"ES":"JUGADOR ÚNICO"}],
+    "MULTI PLAYER": [
+        {"PT-BR":"JOGAR ONLINE"}, 
+        {"ES":"MULTI JUGADOR"}],
+    "EXTRAS": [
+        {"PT-BR":"EXTRAS"}, 
+        {"ES":"EXTRAS"}],
+    "OPTIONS": [
+        {"PT-BR":"OPÇÕES"}, 
+        {"ES":"OPCIONES"}],
+    "QUIT": [
+        {"PT-BR":"SAIR"}, 
+        {"ES":"SALIR"}]
 }
